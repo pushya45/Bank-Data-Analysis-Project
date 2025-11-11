@@ -24,7 +24,7 @@ It aims to uncover borrower patterns, repayment behavior, spending trends, and d
 ---
 
 ## 🗂 Project Workflow
-1. *Data Cleaning & Preparation (Excel):*  
+1. *Excel:*  
    - Cleaned and formatted datasets for both bank loan and credit-debit data.  
    - Used pivot tables and Excel formulas to summarize borrower and transaction information.
   
@@ -34,7 +34,7 @@ It aims to uncover borrower patterns, repayment behavior, spending trends, and d
 
 
 
-2. *Query Implementation (SQL):*  
+2. *SQL:*  
    - Designed banking schemas and implemented KPIs.  
    - Queried tables to identify loan approvals, defaults, and transaction irregularities.
   
@@ -43,7 +43,7 @@ It aims to uncover borrower patterns, repayment behavior, spending trends, and d
 
 
 
-3. *Dashboard Creation (Tableau):*  
+3. *Tableau:*  
    - Created visual dashboards for both datasets showing loan distribution, customer segments, and default risk.  
    - Visualized credit vs. debit flow patterns and high-risk transactions.
   
@@ -52,7 +52,7 @@ It aims to uncover borrower patterns, repayment behavior, spending trends, and d
 
 
 
-4. *Dashboard Creation (Power BI):*  
+4. *Power BI:*  
    - Developed real-time, interactive dashboards displaying repayment trends, loan performance, and fraud detection metrics.  
    - Provided actionable insights for management decisions.
   
