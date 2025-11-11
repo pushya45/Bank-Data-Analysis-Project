@@ -27,18 +27,39 @@ It aims to uncover borrower patterns, repayment behavior, spending trends, and d
 1. *Data Cleaning & Preparation (Excel):*  
    - Cleaned and formatted datasets for both bank loan and credit-debit data.  
    - Used pivot tables and Excel formulas to summarize borrower and transaction information.
+  
+   - <img width="783" height="433" alt="Excel Loan dashboard" src="https://github.com/user-attachments/assets/c867fb4d-2443-4cd1-9ac8-0116c8a782d3" />
+   - <img width="1830" height="1067" alt="image" src="https://github.com/user-attachments/assets/928843fb-3d64-4bdb-92f3-faf14fb9905d" />
+
+
+
 
 2. *Query Implementation (SQL):*  
    - Designed banking schemas and implemented KPIs.  
    - Queried tables to identify loan approvals, defaults, and transaction irregularities.
+  
+   - <img width="1944" height="846" alt="image" src="https://github.com/user-attachments/assets/56aeea1a-5dd0-4d04-ac7f-d749eedd15c9" />
+   - <img width="1920" height="867" alt="image" src="https://github.com/user-attachments/assets/2f7cb061-7e7c-4d92-aeac-5b59c4cc2513" />
+
+
 
 3. *Dashboard Creation (Tableau):*  
    - Created visual dashboards for both datasets showing loan distribution, customer segments, and default risk.  
    - Visualized credit vs. debit flow patterns and high-risk transactions.
+  
+   - <img width="2056" height="1044" alt="image" src="https://github.com/user-attachments/assets/21e1b6b6-ede4-48ae-9cd3-9ba68a62b6c5" />
+   - <img width="2076" height="1003" alt="image" src="https://github.com/user-attachments/assets/0b1457b1-b5e2-45f9-8062-52fe6ef0ddf2" />
+
+
 
 4. *Dashboard Creation (Power BI):*  
    - Developed real-time, interactive dashboards displaying repayment trends, loan performance, and fraud detection metrics.  
    - Provided actionable insights for management decisions.
+  
+   - <img width="1934" height="1079" alt="image" src="https://github.com/user-attachments/assets/d1b04a31-5a2b-4b12-8a63-ebfdb3e201da" />
+   - <img width="1900" height="1060" alt="image" src="https://github.com/user-attachments/assets/e20714c2-4b9b-4f50-a561-5d1642356f08" />
+
+
 
 ---
 
